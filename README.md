@@ -17,4 +17,6 @@ Optimize inventory and product mix based on profitability.
 Analyze profit by customer name.
 Pinpoint high-value customers and tailor strategies accordingly.
 
-![Alt Text - Dashboard]("C:\Users\reete\OneDrive\Desktop\PowerBI_Project\Amazon Dashboard\Report.png")
+# Here's a screenshot of amazon dashboard:
+
+![Alt Text - Dashboard](https://github.com/Reetesh0007/Amazon_Dashboard/blob/main/Report.png)
